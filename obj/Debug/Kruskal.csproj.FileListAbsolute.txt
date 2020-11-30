@@ -1,0 +1,29 @@
+C:\Documents and Settings\Vincent Humbert\My Documents\Visual Studio Projects\C++ Projects\Kruskal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vincent Humbert\My Documents\Visual Studio Projects\C++ Projects\Kruskal\obj\Debug\Kruskal.Cost.resources
+C:\Documents and Settings\Vincent Humbert\My Documents\Visual Studio Projects\C++ Projects\Kruskal\obj\Debug\Kruskal.Kruskal.resources
+C:\Documents and Settings\Vincent Humbert\My Documents\Visual Studio Projects\C++ Projects\Kruskal\obj\Debug\Kruskal.Properties.Resources.resources
+C:\Documents and Settings\Vincent Humbert\My Documents\Visual Studio Projects\C++ Projects\Kruskal\obj\Debug\Kruskal.csproj.GenerateResource.Cache
+C:\Documents and Settings\Vincent Humbert\My Documents\Visual Studio Projects\C++ Projects\Kruskal\bin\Debug\Kruskal.exe
+C:\Documents and Settings\Vincent Humbert\My Documents\Visual Studio Projects\C++ Projects\Kruskal\bin\Debug\Kruskal.pdb
+C:\Documents and Settings\Vincent Humbert\My Documents\Visual Studio Projects\C++ Projects\Kruskal\obj\Debug\Kruskal.exe
+C:\Documents and Settings\Vincent Humbert\My Documents\Visual Studio Projects\C++ Projects\Kruskal\obj\Debug\Kruskal.pdb
+D:\B.E\Kruskal\obj\Debug\Kruskal.exe
+D:\B.E\Kruskal\obj\Debug\Kruskal.pdb
+D:\B.E\Kruskal\bin\Debug\Kruskal.exe
+D:\B.E\Kruskal\bin\Debug\Kruskal.pdb
+D:\B.E\Kruskal\obj\Debug\Kruskal.csprojResolveAssemblyReference.cache
+D:\B.E\Kruskal\obj\Debug\Kruskal.Cost.resources
+D:\B.E\Kruskal\obj\Debug\Kruskal.Kruskal.resources
+D:\B.E\Kruskal\obj\Debug\Kruskal.Properties.Resources.resources
+D:\B.E\Kruskal\obj\Debug\Kruskal.csproj.GenerateResource.Cache
+D:\Kruskal\obj\Debug\Kruskal.exe
+D:\Kruskal\obj\Debug\Kruskal.pdb
+D:\Kruskal\bin\Debug\Kruskal.exe
+D:\Kruskal\bin\Debug\Kruskal.pdb
+D:\Kruskal\obj\Debug\Kruskal.csprojResolveAssemblyReference.cache
+D:\Kruskal\obj\Debug\Kruskal.Cost.resources
+D:\Kruskal\obj\Debug\Kruskal.Kruskal.resources
+D:\Kruskal\obj\Debug\Kruskal.Properties.Resources.resources
+D:\Kruskal\obj\Debug\Kruskal.csproj.GenerateResource.Cache
+E:\External\Kruskal\obj\Debug\Kruskal.exe
+E:\External\Kruskal\obj\Debug\Kruskal.pdb
